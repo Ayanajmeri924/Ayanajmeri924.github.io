@@ -353,7 +353,7 @@ footer a:hover {
 
 /* the below code provide the responsiveness to the website */
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 100%) {
     nav {
         display: flex;
         flex-direction: column;
